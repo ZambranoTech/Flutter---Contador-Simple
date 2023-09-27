@@ -1,6 +1,6 @@
 # hello_world_app
 
-A new Flutter project.
+Proyecto Flutter, contador simple, probando material 3
 
 ## Getting Started
 
